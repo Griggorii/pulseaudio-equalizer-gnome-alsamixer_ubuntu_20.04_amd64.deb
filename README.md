@@ -1,7 +1,7 @@
 # pulseaudio-equalizer-gnome-alsamixer_ubuntu_20.04_amd64.deb
 pulseaudio-equalizer_old_version_gtk , gnome-alsamixer , ubuntu_20.04 
 
-Video proview: https://github.com/Griggorii/pulseaudio-equalizer-gnome-alsamixer_ubuntu_20.04_amd64.deb/blob/main/pulseaudio-equalizer_2.7.0.2-5~webupd8~xenial0_all.deb
+Video proview: https://github.com/Griggorii/pulseaudio-equalizer-gnome-alsamixer_ubuntu_20.04_amd64.deb/blob/main/pulseaudio-equalizer_gnome-alsamixer-0.9.7.webm
 
 $ sudo dpkg -i *.deb
 
